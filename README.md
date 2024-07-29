@@ -72,4 +72,4 @@ We welcome contributions from the community. Please refer to the [CONTRIBUTING.m
 
 ## Contact
 
-For any questions or feedback, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact us at [manideepreddy966@gmail.com](mailto:manideepreddy966@gmail.com).

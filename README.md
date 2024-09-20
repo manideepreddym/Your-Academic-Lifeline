@@ -52,8 +52,8 @@ This AI system is particularly useful in educational settings where students req
 
 ## Future Enhancements
 
-- **Feedback System**: Develop a feedback loop where the AI learns from interactions to improve its responses.
-- **Expansion**: Integrate more dynamic data sources and interactive elements, such as quizzes or flashcards.
+- **Feedback System**: We are Developing a feedback loop where the AI learns from interactions to improve its responses.
+- **Expansion**: We are in the process of Integrating more dynamic data sources and interactive elements, such as quizzes or flashcards.
 
 ## Built With
 - **Streamlit**: For interactive web applications.
